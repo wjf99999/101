@@ -2,7 +2,7 @@
 
 inr main()
 {
-	printf"hhhhh\n";
+	printf("hhhhh\n");
 	 return  0;
 }
 
